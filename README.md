@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CpalmerD20
-- 👀 I’m interested in open source Java, Python, and C projects
+- 👀 I’m interested in open source Java and Python projects
 - 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
