@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CpalmerD20
+- You can call me Shane
 - I'm a big fan of readable code and I hope you are too
 - I’m interested in open source Java projects
-- Right now I am having a focus on Java while learning Python
 
 
 <!---
