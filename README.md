@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @CpalmerD20
 - You can call me Shane
-- I’m interested in open source Java projects
 
 
 <!---
